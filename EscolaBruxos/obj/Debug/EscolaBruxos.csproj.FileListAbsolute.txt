@@ -1,0 +1,55 @@
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.pdb
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csprojResolveAssemblyReference.cache
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Form1.resources
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Properties.Resources.resources
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmCadastrarAluno.resources
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmProfessor.resources
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmReitor.resources
+E:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csproj.GenerateResource.Cache
+J:\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+J:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+J:\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.pdb
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Form1.resources
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Properties.Resources.resources
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmCadastrarAluno.resources
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmProfessor.resources
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmReitor.resources
+C:\Users\MAQLAB\Desktop\EscolaBruxos\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csproj.GenerateResource.Cache
+C:\Users\MAQLAB\Pictures\EscolaBruxosAtualizado\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+C:\Users\MAQLAB\Pictures\EscolaBruxosAtualizado\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+C:\Users\MAQLAB\Pictures\EscolaBruxosAtualizado\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+C:\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+C:\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+C:\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Form1.resources
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Properties.Resources.resources
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmCadastrarAluno.resources
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmProfessor.resources
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmReitor.resources
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csproj.GenerateResource.Cache
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.pdb
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csprojResolveAssemblyReference.cache
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Form1.resources
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.Properties.Resources.resources
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmCadastrarAluno.resources
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmProfessor.resources
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmReitor.resources
+C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csproj.GenerateResource.Cache
