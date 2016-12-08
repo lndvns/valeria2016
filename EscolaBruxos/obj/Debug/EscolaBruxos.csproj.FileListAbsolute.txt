@@ -53,3 +53,6 @@ C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\o
 C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmProfessor.resources
 C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.visão.frmReitor.resources
 C:\Users\leona\Documents\Visual Studio 2015\Projects\EscolaBruxos\EscolaBruxos\obj\Debug\EscolaBruxos.csproj.GenerateResource.Cache
+C:\Users\leona\Documents\valeria2016\EscolaBruxos\bin\Debug\EscolaBruxos.exe.config
+C:\Users\leona\Documents\valeria2016\EscolaBruxos\obj\Debug\EscolaBruxos.exe
+C:\Users\leona\Documents\valeria2016\EscolaBruxos\obj\Debug\EscolaBruxos.pdb
